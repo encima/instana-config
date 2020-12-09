@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Instana - Agent - GitOps - Discovery",
+        "state": "Active",
+        "version": "1.1.2"
+    },
+    {
+        "name": "Instana - Agent - Bootstrap - Bundle",
+        "state": "Active",
+        "version": "1.2.12"
+    },
+    {
+        "name": "Instana - Agent - Bundle",
+        "state": "Active",
+        "version": "1.1.580"
+    },
+    {
+        "name": "Instana - Agent - Init",
+        "state": "Active",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Instana - Sensor - API - JSON",
+        "state": "Active",
+        "version": "1.2.105"
+    },
+    {
+        "name": "Instana - Agent - Optional API",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Java Concurrency Tools Core Library",
+        "state": "Active",
+        "version": "2.1.1"
+    },
+    {
+        "name": "Instana - Sensor - API - Interfaces",
+        "state": "Active",
+        "version": "1.2.105"
+    },
+    {
+        "name": "Instana - Agent - Unix Socket Util",
+        "state": "Active",
+        "version": "1.2.3.0"
+    },
+    {
+        "name": "Instana - ActiveMQ - Discovery",
+        "state": "Active",
+        "version": "1.1.10"
+    },
+    {
+        "name": "Instana - ActiveMQ Artemis - Discovery",
+        "state": "Active",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Instana - Amazon Web Services - Discovery",
+        "state": "Active",
+        "version": "1.0.95"
+    },
+    {
+        "name": "Instana - Microsoft Azure - Discovery",
+        "state": "Active",
+        "version": "1.2.20"
+    },
+    {
+        "name": "Instana - BeeInstana - Discovery",
+        "state": "Active",
+        "version": "1.0.4"
+    },
+    {
+        "name": "Instana - BizTalk - Discovery",
+        "state": "Active",
+        "version": "1.0.4"
+    },
+    {
+        "name": "Instana - Cassandra - Discovery",
+        "state": "Active",
+        "version": "1.1.34"
+    },
+    {
+        "name": "Instana - Ceph - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - ClickHouse - Discovery",
+        "state": "Active",
+        "version": "1.0.16"
+    },
+    {
+        "name": "Instana - CloudFoundry - Discovery",
+        "state": "Active",
+        "version": "1.0.4"
+    },
+    {
+        "name": "Instana - CLR - Discovery",
+        "state": "Active",
+        "version": "1.1.40"
+    },
+    {
+        "name": "Instana - CockroachDB - Discovery",
+        "state": "Active",
+        "version": "1.0.6"
+    },
+    {
+        "name": "Instana - Consul - Discovery",
+        "state": "Active",
+        "version": "1.0.16"
+    },
+    {
+        "name": "Instana - Containerd - Discovery",
+        "state": "Active",
+        "version": "1.0.20"
+    },
+    {
+        "name": "Instana - Couchbase - Discovery",
+        "state": "Active",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Instana - Cpp - Discovery",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - CRI-O - Discovery",
+        "state": "Active",
+        "version": "1.0.9"
+    },
+    {
+        "name": "Instana - Crystal - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - DB2 - Discovery",
+        "state": "Active",
+        "version": "1.0.9"
+    },
+    {
+        "name": "Instana - Docker - Discovery",
+        "state": "Active",
+        "version": "1.1.56"
+    },
+    {
+        "name": "Instana - Dropwizard - Discovery",
+        "state": "Active",
+        "version": "1.1.25"
+    },
+    {
+        "name": "Instana - eBPF - Discovery",
+        "state": "Active",
+        "version": "1.0.17"
+    },
+    {
+        "name": "Instana - Amazon Elastic Compute Cloud - Discovery",
+        "state": "Active",
+        "version": "1.1.9"
+    },
+    {
+        "name": "Instana - Elasticsearch - Discovery",
+        "state": "Active",
+        "version": "1.1.55"
+    },
+    {
+        "name": "Instana - Etcd - Discovery",
+        "state": "Active",
+        "version": "1.0.27"
+    },
+    {
+        "name": "Instana - F5 - Discovery",
+        "state": "Active",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Instana - Finagle - Discovery",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - Garden - Discovery",
+        "state": "Active",
+        "version": "1.0.5"
+    },
+    {
+        "name": "Instana - Google Cloud Platform - Discovery",
+        "state": "Active",
+        "version": "1.1.27"
+    },
+    {
+        "name": "Instana - Google Cloud Compute Engine - Discovery",
+        "state": "Active",
+        "version": "1.1.27"
+    },
+    {
+        "name": "Instana - Generic - Hardware - Discovery",
+        "state": "Active",
+        "version": "1.1.6"
+    },
+    {
+        "name": "Instana - Glassfish - Discovery",
+        "state": "Active",
+        "version": "1.1.9"
+    },
+    {
+        "name": "Instana - Go - Discovery",
+        "state": "Active",
+        "version": "1.3.0"
+    },
+    {
+        "name": "Instana - Hadoop YARN - Discovery",
+        "state": "Active",
+        "version": "1.1.3"
+    },
+    {
+        "name": "Instana - Hadoop YARN Node - Discovery",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - HAProxy - Discovery",
+        "state": "Active",
+        "version": "1.1.28"
+    },
+    {
+        "name": "Instana - Haskell - Discovery",
+        "state": "Active",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Instana - Hazelcast - Discovery",
+        "state": "Active",
+        "version": "1.2.2"
+    },
+    {
+        "name": "Instana - HBase - Discovery",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - Host - Discovery",
+        "state": "Active",
+        "version": "1.1.130"
+    },
+    {
+        "name": "Instana - Apache HTTPd - Discovery",
+        "state": "Active",
+        "version": "1.1.102"
+    },
+    {
+        "name": "Instana - IBM MQ - Discovery",
+        "state": "Active",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Instana - Intana Backend - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - Java - Discovery",
+        "state": "Active",
+        "version": "1.2.97"
+    },
+    {
+        "name": "Instana - JBoss Application Server - Discovery",
+        "state": "Active",
+        "version": "1.1.43"
+    },
+    {
+        "name": "Instana - JBoss4 Application Server - Discovery",
+        "state": "Active",
+        "version": "1.0.6"
+    },
+    {
+        "name": "Instana - JBoss Data Grid - Discovery",
+        "state": "Active",
+        "version": "1.1.10"
+    },
+    {
+        "name": "Instana - Jenkins - Discovery",
+        "state": "Active",
+        "version": "1.0.14"
+    },
+    {
+        "name": "Instana - Jetty - Discovery",
+        "state": "Active",
+        "version": "1.1.12"
+    },
+    {
+        "name": "Instana - JIRA - Discovery",
+        "state": "Active",
+        "version": "1.1.11"
+    },
+    {
+        "name": "Instana - Kafka - Discovery",
+        "state": "Active",
+        "version": "1.1.38"
+    },
+    {
+        "name": "Instana - Kafka Connect - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - Kubernetes - Discovery",
+        "state": "Active",
+        "version": "1.2.123"
+    },
+    {
+        "name": "Instana - Liferay - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - LXC - Discovery",
+        "state": "Active",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Instana - mariadb - Discovery",
+        "state": "Active",
+        "version": "1.1.23"
+    },
+    {
+        "name": "Instana - Memcached - Discovery",
+        "state": "Active",
+        "version": "1.0.18"
+    },
+    {
+        "name": "Instana - MongoDB - Discovery",
+        "state": "Active",
+        "version": "1.1.44"
+    },
+    {
+        "name": "Instana - MSIIS - Discovery",
+        "state": "Active",
+        "version": "1.1.8"
+    },
+    {
+        "name": "Instana - MSSQL - Discovery",
+        "state": "Active",
+        "version": "1.1.30"
+    },
+    {
+        "name": "Instana - Mule - Discovery",
+        "state": "Active",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Instana - MySQL - Discovery",
+        "state": "Active",
+        "version": "1.1.64"
+    },
+    {
+        "name": "Instana - Neo4j - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - Net Core - Discovery",
+        "state": "Active",
+        "version": "1.0.27"
+    },
+    {
+        "name": "Instana - Nginx - Discovery",
+        "state": "Active",
+        "version": "1.1.75"
+    },
+    {
+        "name": "Instana - Node.js - Discovery",
+        "state": "Active",
+        "version": "1.2.16"
+    },
+    {
+        "name": "Instana - Nomad - Discovery",
+        "state": "Active",
+        "version": "1.0.6"
+    },
+    {
+        "name": "Instana - Oracle Public Cloud - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - OpenLDAP - Discovery",
+        "state": "Active",
+        "version": "1.0.9"
+    },
+    {
+        "name": "Instana - OpenStack - Nova - Discovery",
+        "state": "Active",
+        "version": "1.1.6"
+    },
+    {
+        "name": "Instana - OracleDB - Discovery",
+        "state": "Active",
+        "version": "1.1.19"
+    },
+    {
+        "name": "Instana - Packet Cloud - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - Custom Performance Counters - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - PHP-CGI - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - PHP-FPM - Discovery",
+        "state": "Active",
+        "version": "1.1.64"
+    },
+    {
+        "name": "Instana - Ping - Discovery",
+        "state": "Active",
+        "version": "1.0.6"
+    },
+    {
+        "name": "Instana - Ping Directory - Discovery",
+        "state": "Active",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Instana - PostgreSQL - Discovery",
+        "state": "Active",
+        "version": "1.0.39"
+    },
+    {
+        "name": "Instana - Process - Discovery",
+        "state": "Active",
+        "version": "1.1.43"
+    },
+    {
+        "name": "Instana - Prometheus - Discovery",
+        "state": "Active",
+        "version": "1.0.15"
+    },
+    {
+        "name": "Instana - Python - Discovery",
+        "state": "Active",
+        "version": "1.7.18"
+    },
+    {
+        "name": "Instana - RabbitMQ - Discovery",
+        "state": "Active",
+        "version": "1.1.41"
+    },
+    {
+        "name": "Instana - Redis - Discovery",
+        "state": "Active",
+        "version": "1.1.33"
+    },
+    {
+        "name": "Instana - Redis Enterprise - Discovery",
+        "state": "Active",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Instana - Ruby - Discovery",
+        "state": "Active",
+        "version": "1.4.2"
+    },
+    {
+        "name": "Instana - Sap Hana - Discovery",
+        "state": "Active",
+        "version": "1.1.3"
+    },
+    {
+        "name": "Instana - solr - Discovery",
+        "state": "Active",
+        "version": "1.0.14"
+    },
+    {
+        "name": "Instana - Spark Application - Discovery",
+        "state": "Active",
+        "version": "1.1.5"
+    },
+    {
+        "name": "Instana - Spark Standalone - Discovery",
+        "state": "Active",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Instana - Spring Boot - Discovery",
+        "state": "Active",
+        "version": "1.1.41"
+    },
+    {
+        "name": "Instana - Statsd - Discovery",
+        "state": "Active",
+        "version": "1.1.7"
+    },
+    {
+        "name": "Instana - Sybase - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - Tanzu - Foundation - Member - Discovery",
+        "state": "Active",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Instana - Tibco EMS - Discovery",
+        "state": "Active",
+        "version": "1.0.2"
+    },
+    {
+        "name": "Instana - Tomcat - Discovery",
+        "state": "Active",
+        "version": "1.1.29"
+    },
+    {
+        "name": "Instana - Varnish - Discovery",
+        "state": "Active",
+        "version": "1.0.22"
+    },
+    {
+        "name": "Instana - Vault - Discovery",
+        "state": "Active",
+        "version": "1.0.5"
+    },
+    {
+        "name": "Instana - vSphere - Discovery",
+        "state": "Active",
+        "version": "1.0.21"
+    },
+    {
+        "name": "Instana - Weblogic - Discovery",
+        "state": "Active",
+        "version": "1.1.18"
+    },
+    {
+        "name": "Instana - WebSphere - Discovery",
+        "state": "Active",
+        "version": "1.1.13"
+    },
+    {
+        "name": "Instana - WebSphere Liberty - Discovery",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - Zookeeper - Discovery",
+        "state": "Active",
+        "version": "1.0.4"
+    },
+    {
+        "name": "Instana - Net Core - Tracer",
+        "state": "Active",
+        "version": "1.0.5"
+    },
+    {
+        "name": "Instana - Generic - Hardware - Sensor",
+        "state": "Active",
+        "version": "1.1.6"
+    },
+    {
+        "name": "Instana - CLR - Trace Sensor",
+        "state": "Active",
+        "version": "1.1.7"
+    },
+    {
+        "name": "Instana - Nginx - Sensor",
+        "state": "Active",
+        "version": "1.1.75"
+    },
+    {
+        "name": "Instana - Process - Sensor",
+        "state": "Active",
+        "version": "1.1.43"
+    },
+    {
+        "name": "Instana - Docker - Sensor",
+        "state": "Active",
+        "version": "1.1.56"
+    },
+    {
+        "name": "Instana - eBPF - Sensor",
+        "state": "Active",
+        "version": "1.0.17"
+    },
+    {
+        "name": "Instana - Google Cloud Platform Services - Discovery",
+        "state": "Active",
+        "version": "1.1.27"
+    },
+    {
+        "name": "Instana - Coordination SDK",
+        "state": "Active",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Instana - Kubernetes - Sensor",
+        "state": "Active",
+        "version": "1.2.123"
+    },
+    {
+        "name": "Instana - Host - Sensor",
+        "state": "Active",
+        "version": "1.1.130"
+    }
+]
